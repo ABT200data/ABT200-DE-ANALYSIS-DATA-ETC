@@ -1,0 +1,11 @@
+PASS	Basic Statistics	SRR3629867_reverse.gz
+PASS	Per base sequence quality	SRR3629867_reverse.gz
+PASS	Per tile sequence quality	SRR3629867_reverse.gz
+PASS	Per sequence quality scores	SRR3629867_reverse.gz
+FAIL	Per base sequence content	SRR3629867_reverse.gz
+PASS	Per sequence GC content	SRR3629867_reverse.gz
+PASS	Per base N content	SRR3629867_reverse.gz
+PASS	Sequence Length Distribution	SRR3629867_reverse.gz
+WARN	Sequence Duplication Levels	SRR3629867_reverse.gz
+WARN	Overrepresented sequences	SRR3629867_reverse.gz
+PASS	Adapter Content	SRR3629867_reverse.gz
